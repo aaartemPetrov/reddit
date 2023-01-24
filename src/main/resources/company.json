@@ -1,0 +1,30 @@
+{
+  "companyName": "solvd",
+  "city": "Minsk",
+  "employees": [
+    {
+      "name": "Artem Petrov",
+      "age": "30",
+      "position": "QA",
+      "salary": "2000"
+    },
+    {
+      "name": "Pol",
+      "age": "25",
+      "position": "QA",
+      "salary": "1000"
+    },
+    {
+      "name": "Ruslan",
+      "age": "33",
+      "position": "Developer",
+      "salary": "3000"
+    },
+    {
+      "name": "Nik",
+      "age": "23",
+      "position": "Manager",
+      "salary": "600"
+    }
+  ]
+}
